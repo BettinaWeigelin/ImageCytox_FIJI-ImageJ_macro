@@ -27,7 +27,10 @@ A detailed user guide and example data are provided in this repository.
 
 ## Citation
 If you use ImageCytox in your work, please cite: 
-Weigelin, B. (Year). ImageCytox: An ImageJ macro for nuclei-based quantification of image-based 3D cytotoxicity assays. Zenodo. https://doi.org/XXXX
+Ohmayer A, Giampetraglia M, Weigelin, B. (2026). Real-time imaging of T cell-mediated cytotoxicity  in a 3D collagen matrix assay. 
+
+## Example datasets
+Complete example datasets are available at Zenodo: https://doi.org/10.5281/zenodo.18154801
 
 ## License
 See the LICENSE file for details.
